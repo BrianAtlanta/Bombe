@@ -12,7 +12,7 @@ We are in the initial phase defining the features our scoring server will have, 
 - Server will have the option to publish puzzles to a remote bombe server.
 - Bombe will tweet hints.
 - Most points wins, with tie going to the fastest.
-- 
+ 
 
 Hardware Requirements:
 Raspberry Pi
