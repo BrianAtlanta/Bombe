@@ -13,7 +13,7 @@ We are in the initial phase defining the features our scoring server will have, 
 - Bombe will tweet hints.
 - Most points wins, with tie going to the fastest.
 - Puzzles can stand-alone or chained together (solving a puzzle opens up a new puzzle).
- 
+- Log all guesses so admin can review if a puzzle was a problem by having several people getting the same wrong answer. 
 
 Hardware Requirements:
 Raspberry Pi
